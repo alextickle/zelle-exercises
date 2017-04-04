@@ -1,0 +1,5 @@
+8 clubs
+7 clubs
+10 clubs
+11 diamonds
+11 spades
